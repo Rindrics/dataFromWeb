@@ -1,0 +1,48 @@
+"ID_0","ISO","NAME_0","ID_1","NAME_1","TYPE_1","ENGTYPE_1","NL_NAME_1","VARNAME_1","Shape_Length","Shape_Area"
+114,"JPN","Japan","1","Aichi","Ken","Prefecture","æ„›çŸ¥çœŒ","Aiti",8.19406558812955,0.509055033180648
+114,"JPN","Japan","10","Gunma","Ken","Prefecture","ç¾¤é¦¬çœŒ","GunmaGumma",4.92070296083863,0.640696482587358
+114,"JPN","Japan","11","Hiroshima","Ken","Prefecture","åºƒå³¶çœŒ","Hirosima",13.029150260851,0.828438092954449
+114,"JPN","Japan","12","Hokkaido","Do","Circuit","åŒ—æµ·é“","Ezo|Yeso|Yezo",35.14358352665,8.67171048975435
+114,"JPN","Japan","13","HyÅgo","Ken","Prefecture","å…µåº«çœŒ","Hiogo",9.99103622214631,0.828006248135364
+114,"JPN","Japan","14","Ibaraki","Ken","Prefecture","èŒ¨åŸŽçœŒ",NA,5.59576657596826,0.612537432316441
+114,"JPN","Japan","15","Ishikawa","Ken","Prefecture","çŸ³å·çœŒ","Isikawa",7.14529268892788,0.427554941037679
+114,"JPN","Japan","16","Iwate","Ken","Prefecture","å²©æ‰‹çœŒ",NA,9.8007658842357,1.59755056051655
+114,"JPN","Japan","17","Kagawa","Ken","Prefecture","é¦™å·çœŒ",NA,5.25718746341983,0.168936351197775
+114,"JPN","Japan","18","Kagoshima","Ken","Prefecture","é¹¿å…å³¶çœŒ",NA,25.9116167737037,0.862785758610712
+114,"JPN","Japan","19","Kanagawa","Ken","Prefecture","ç¥žå¥ˆå·çœŒ",NA,5.3032463518164,0.236542080965591
+114,"JPN","Japan","2","Akita","Ken","Prefecture","ç§‹ç”°çœŒ",NA,8.99551857790119,1.22369475921732
+114,"JPN","Japan","20","Kochi","Ken","Prefecture","é«˜çŸ¥çœŒ","Koti",9.4319081905596,0.682793812011343
+114,"JPN","Japan","21","Kumamoto","Ken","Prefecture","ç†Šæœ¬çœŒ",NA,13.6088317229445,0.726642392139159
+114,"JPN","Japan","22","Kyoto","Fu","Urban Prefecture","äº¬éƒ½åºœ","Kioto",6.13908978518906,0.457828943821366
+114,"JPN","Japan","23","Mie","Ken","Prefecture","ä¸‰é‡çœŒ","Miye",12.1336525684918,0.56706969946391
+114,"JPN","Japan","24","Miyagi","Ken","Prefecture","å®®åŸŽçœŒ",NA,11.1103659090057,0.745385660586157
+114,"JPN","Japan","25","Miyazaki","Ken","Prefecture","å®®å´ŽçœŒ",NA,7.62691328250872,0.734382154201738
+114,"JPN","Japan","26","Nagano","Ken","Prefecture","é•·é‡ŽçœŒ",NA,7.66210880665291,1.35963817359883
+114,"JPN","Japan","27","Naoasaki","Ken","Prefecture","é•·å´ŽçœŒ","Nagasaki",35.0519588218301,0.406737634024449
+114,"JPN","Japan","28","Nara","Ken","Prefecture","å¥ˆè‰¯çœŒ",NA,3.48598572320168,0.360716400056853
+114,"JPN","Japan","29","Niigata","Ken","Prefecture","æ–°æ½ŸçœŒ",NA,11.208006949105,1.29323787419706
+114,"JPN","Japan","3","Aomori","Ken","Prefecture","é’æ£®çœŒ",NA,10.4314934812951,1.03154910317969
+114,"JPN","Japan","30","Oita","Ken","Prefecture","å¤§åˆ†çœŒ",NA,9.38329789912265,0.613495322410011
+114,"JPN","Japan","31","Okayama","Ken","Prefecture","å²¡å±±çœŒ",NA,10.8995968442916,0.715957496548081
+114,"JPN","Japan","32","Okinawa","Ken","Prefecture","æ²–ç¸„çœŒ",NA,17.9807778873199,0.210579148493712
+114,"JPN","Japan","33","Osaka","Fu","Urban Prefecture","å¤§é˜ªåºœ",NA,5.16679246788923,0.188010332291005
+114,"JPN","Japan","34","Saga","Ken","Prefecture","ä½è³€çœŒ",NA,4.87227896662756,0.237676698743607
+114,"JPN","Japan","35","Saitama","Ken","Prefecture","åŸ¼çŽ‰çœŒ",NA,3.19430830170579,0.37931111329816
+114,"JPN","Japan","36","Shiga","Ken","Prefecture","æ»‹è³€çœŒ","Siga",3.30045447630396,0.397692903177821
+114,"JPN","Japan","37","Shimane","Ken","Prefecture","å³¶æ ¹çœŒ","Simane",10.7799529079386,0.661401654331725
+114,"JPN","Japan","38","Shizuoka","Ken","Prefecture","é™å²¡çœŒ","Sizuoka",13.495626423062,0.789816279429922
+114,"JPN","Japan","39","Tochigi","Ken","Prefecture","æ ƒæœ¨çœŒ","Totigi",3.69418428211438,0.645658920344435
+114,"JPN","Japan","4","Chiba","Ken","Prefecture","åƒè‘‰çœŒ","Tiba|Tsiba",6.57117243777754,0.501105937146348
+114,"JPN","Japan","40","Tokushima","Ken","Prefecture","å¾³å³¶çœŒ","Tokusima",5.86263698248019,0.402489334490378
+114,"JPN","Japan","41","Tokyo","To","Metropolis","æ±äº¬éƒ½","Edo|Yedo|Tokio|TÂ¢quio",4.46664969275992,0.179392266756627
+114,"JPN","Japan","42","Tottori","Ken","Prefecture","é³¥å–çœŒ",NA,4.44399192679804,0.345001688110642
+114,"JPN","Japan","43","Toyama","Ken","Prefecture","å¯Œå±±çœŒ",NA,4.2334408406496,0.430236172076557
+114,"JPN","Japan","44","Wakayama","Ken","Prefecture","å’Œæ­Œå±±çœŒ",NA,7.07357697465025,0.453375603945452
+114,"JPN","Japan","45","Yamagata","Ken","Prefecture","å±±å½¢çœŒ",NA,5.43052502047659,0.965757638303299
+114,"JPN","Japan","46","Yamaguchi","Ken","Prefecture","å±±å£çœŒ","Yamaguti",15.2264177579585,0.598434899497058
+114,"JPN","Japan","47","Yamanashi","Ken","Prefecture","å±±æ¢¨çœŒ","Yamanasi",3.4047351234816,0.44470986101078
+114,"JPN","Japan","5","Ehime","Ken","Prefecture","æ„›åª›çœŒ",NA,15.9994400520031,0.558625215402539
+114,"JPN","Japan","6","Fukui","Ken","Prefecture","ç¦äº•çœŒ","Hukui",6.78997591739753,0.4224878059758
+114,"JPN","Japan","7","Fukuoka","Ken","Prefecture","ç¦å²¡çœŒ","Hukuoka",8.2660067738699,0.486201829509776
+114,"JPN","Japan","8","Fukushima","Ken","Prefecture","ç¦å³¶çœŒ","Hukusima",7.53318793781674,1.39757466912852
+114,"JPN","Japan","9","Gifu","Ken","Prefecture","å²é˜œçœŒ","Gihu",6.63551909927215,1.05708597932242
